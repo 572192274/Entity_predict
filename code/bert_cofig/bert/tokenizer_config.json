@@ -1,0 +1,1 @@
+{"mask_token": "[MASK]", "max_len": 512, "do_lower_case": false, "cls_token": "[CLS]", "sep_token": "[SEP]", "unk_token": "[UNK]", "pad_token": "[PAD]"}
