@@ -1,0 +1,1 @@
+pytorch_model.bin从release上下载到bert_config/bert/
